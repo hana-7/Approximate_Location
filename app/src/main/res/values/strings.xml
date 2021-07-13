@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Approximate_Location</string>
+    <string name="button">Get Permission</string>
+</resources>
